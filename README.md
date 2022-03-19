@@ -1,3 +1,14 @@
 # themagussynagogueofthemind.io
 web3 app
-https://github.com/ChainSafe/web3.js.git
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.md]
+trim_trailing_whitespace = false
