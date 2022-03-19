@@ -11,4 +11,5 @@ trim_trailing_whitespace = true
 insert_final_newline = true
 
 [*.md]
-trim_trailing_whitespace = false
+trim_trailing_whitespace = true
+file:///M:/themagussynagogueofthemind.io/themagussynagogueofthemind$$$$$.io
