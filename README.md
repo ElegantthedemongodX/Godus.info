@@ -1,15 +1,15 @@
-# themagussynagogueofthemind.io
-web3 app
-root = true
+# Global
 
-[*]
-indent_style = space
-indent_size = 4
-end_of_line = lf
-charset = utf-8
-trim_trailing_whitespace = true
-insert_final_newline = true
+Global Aspects that impact the entire application
 
-[*.md]
-trim_trailing_whitespace = true
-file:///M:/themagussynagogueofthemind.io/themagussynagogueofthemind$$$$$.io
+## What should go in here:
+
+- Root level things
+- Things that are imported once
+- Things that need to happen as the application starts
+- Global Configuration
+
+## What shouldn't go in here:
+
+- Things that are used more than once
+- Things that aren't global
